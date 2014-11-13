@@ -1,4 +1,4 @@
 ParseTextFile
 =============
 
-For Assessment the programming Skills for my Interview
+demonstrate programming Skills for my Interview
